@@ -74,10 +74,3 @@ pub const REGISTERS: &[RegisterGroup] = &[
         ],
     },
 ];
-
-// pub const REGISTERS: Vec<&str> = [
-//     ["rax", "eax", "ax", "al"],
-//     ["rbx", "ebx", "bx", "bl"],
-//     ["rcx", "ecx", "cx", "cl"],
-//     ["rdx", "edx", "dx", "dl"],
-// ];
